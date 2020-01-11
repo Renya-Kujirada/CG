@@ -1,0 +1,5 @@
+﻿  1525050250-no1.cpp
+c:\users\v025ff\documents\visual studio 2015\projects\期末課題-1\期末課題-1\1525050250-no1.cpp(78): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+c:\users\v025ff\documents\visual studio 2015\projects\期末課題-1\期末課題-1\1525050250-no1.cpp(79): warning C4838: 'double' から 'GLfloat' への変換には縮小変換が必要です
+  期末課題-1.vcxproj -> C:\Users\v025ff\Documents\Visual Studio 2015\Projects\期末課題-1\Debug\期末課題-1.exe
+  期末課題-1.vcxproj -> C:\Users\v025ff\Documents\Visual Studio 2015\Projects\期末課題-1\Debug\期末課題-1.pdb (Full PDB)
